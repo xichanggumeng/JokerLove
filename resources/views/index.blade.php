@@ -1,7 +1,7 @@
 <html lang="zh-cn">
 <head>
     <meta charset="UTF-8">
-    <title>TEST</title>
+    <title>JokerLove</title>
 
 
     <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -230,7 +230,7 @@
 
 <nav class="navbar navbar-dark bg-dark">
     <div class="container">
-        <span class="navbar-brand mb-0 h1 mx-auto">TEST</span>
+        <span class="navbar-brand mb-0 h1 mx-auto">小丑の爱</span>
     </div>
 </nav>
 
